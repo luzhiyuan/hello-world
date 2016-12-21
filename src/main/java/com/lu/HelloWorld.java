@@ -10,5 +10,7 @@ public class HelloWorld {
 		String str = "10028.750000000000000001";
 		BigDecimal a = new BigDecimal(str);
 		System.out.println(a);
+		System.out.println(a);
+		System.out.println(a);
 	}
 }
